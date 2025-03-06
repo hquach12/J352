@@ -1,0 +1,110 @@
+body {
+  background-color: #800020;
+}
+p {color: #ffd700;
+  font-size: 100%;
+  font-family: "Oswald", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+h1{color:#ff0000;
+  font-size: 300%;
+  font-family: "Oswald", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  background-color: goldenrod;
+  width: 100%;
+  padding: 50px;
+  text-align: center;
+  border: 5px, solid;
+}
+
+h2 {color: #ffffff;
+  font-size: 100%;
+  font-family: "Comic Neue", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+
+li {color: #ffffff;
+font-size: 100%;
+font-family: "Comic Neue", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+/*LINK STYLING BELOW */
+a {color: #000080;
+font-size: 100%;
+font-family: "Oswald", serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+a:hover{
+  color: cyan;
+}
+
+h3 {
+  color: #c6c7d6;
+  border: 5px, solid;
+}
+
+.subhead {
+  color: #ffd700;
+}
+
+.leftimage{
+  margin-right: 40px;
+}
+
+.trgold{
+  background-color: goldenrod;
+}
+table, th, td{
+  border: 1px solid white;
+  padding:10px;
+  color: white;
+}
+.trsilver{
+  background-color: silver;
+}
+.tramber{
+  background-color: #a3731f;
+}
+h3{color:#ff0000;
+  font-size: 300%;
+  font-family: "Oswald", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  background-color: goldenrod;
+  width: 100%;
+  padding: 50px;
+  text-align: center;
+}
+.trlightpink{
+background-color:slategray;
+}
+.trrandom{
+  background-color: orangered;
+}
+.trclear{
+  background-color: darksalmon;
+}
+.trshine{
+  background-color: coral;
+}
+div{
+  text-align: center;
+  background-color: goldenrod;
+  font-weight: bold;
+  font-size: medium;
+  border: 3px solid red;
+  color: maroon;
+}
