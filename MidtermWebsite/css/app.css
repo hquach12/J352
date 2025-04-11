@@ -1,0 +1,40 @@
+.navStyle{
+	background-color: maroon;
+	color: goldenrod;
+	height: 20;
+	margin: 15;
+	text-align: center;
+}
+.navItem{
+	margin: 0px 50px 50px 0px;
+}
+.navStyle a:hover{
+	color: tan;
+}
+
+h1{
+font-family: 'Times New Roman', Times, serif;
+font-size: 50px;
+}
+h2{
+	font-size: 20px;
+	color: grey;
+}
+h3{
+	font-size: 15px;
+}
+p{
+	text-align: left;
+}
+.imageone{
+display: block;
+margin-left: auto;
+margin-right:auto;
+}
+.callout{
+	background-color: grey;
+}
+p{
+font-family: "Oswald", "serif";
+font-size: 20px;
+}
