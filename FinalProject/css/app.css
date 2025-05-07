@@ -1,0 +1,39 @@
+.centerImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+p{
+    color: whitesmoke;
+    font-family: "Fira Sans Condensed";
+    padding: 10px;
+}
+h2{
+    color: whitesmoke;
+    font-size: 24px;
+}
+h3{
+    color: whitesmoke;
+}
+.leftimage{
+
+}
+.centerimage{
+
+}
+table, th,td{
+    border: solid 2px black;
+    padding: 10px;
+    color: black;
+}
+.infogram-embed{
+    width: 500px;
+}
